@@ -1,0 +1,891 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"num",
+				"number_of_searches_list"
+			],
+			[
+				"search",
+				"search_term"
+			],
+			[
+				"sear",
+				"search_term"
+			],
+			[
+				"in",
+				"intermediate"
+			],
+			[
+				"json",
+				"json_data"
+			],
+			[
+				"new",
+				"new_values_array"
+			],
+			[
+				"vale",
+				"values_array"
+			],
+			[
+				"values",
+				"values_array"
+			],
+			[
+				"value",
+				"values_array"
+			],
+			[
+				"find",
+				"find_all"
+			],
+			[
+				"fin",
+				"findChildren"
+			],
+			[
+				"key",
+				"keyValDict"
+			],
+			[
+				"dat",
+				"datasetURL"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"login",
+				"loginDetails_json"
+			],
+			[
+				"log",
+				"loginDetails"
+			],
+			[
+				"data",
+				"dataType"
+			],
+			[
+				"end",
+				"endDate"
+			],
+			[
+				"request",
+				"requestJsonDict"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"param",
+				"parameters"
+			],
+			[
+				"ty",
+				"typeof"
+			],
+			[
+				"responseJ",
+				"responseJsonDict"
+			],
+			[
+				"dataset",
+				"datasetListFields"
+			],
+			[
+				"response",
+				"responseJsonDict"
+			],
+			[
+				"resp",
+				"responseJson"
+			],
+			[
+				"get",
+				"getMetrics"
+			],
+			[
+				"anal",
+				"analysedData"
+			],
+			[
+				"en",
+				"ethnicity"
+			],
+			[
+				"ent",
+				"ethnicityDict"
+			],
+			[
+				"cond",
+				"conditions"
+			],
+			[
+				"ex",
+				"externalUrl"
+			],
+			[
+				"rand",
+				"randint"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"requ",
+				"requestJsonDict"
+			],
+			[
+				"req",
+				"requestJsonDict"
+			],
+			[
+				"valu",
+				"valueline"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"from",
+				"fromTime"
+			],
+			[
+				"respn",
+				"responseCode"
+			],
+			[
+				"metric",
+				"metricName"
+			],
+			[
+				"respon",
+				"responseJsonDict"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"exp",
+				"experimenttype"
+			],
+			[
+				"ftp",
+				"ftpUrl"
+			],
+			[
+				"js",
+				"jsonFilesBody"
+			],
+			[
+				"study",
+				"studyId"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"print",
+				"print_output"
+			],
+			[
+				"j",
+				"jsonBody"
+			],
+			[
+				"stud",
+				"studyId"
+			],
+			[
+				"X",
+				"“X-Token"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/templates/application.hbs",
+			"settings":
+			{
+				"buffer_size": 66,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/index.hbs",
+			"settings":
+			{
+				"buffer_size": 802,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/admin/invitations.hbs",
+			"settings":
+			{
+				"buffer_size": 362,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/routes/admin/invitations.js",
+			"settings":
+			{
+				"buffer_size": 174,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/index.js",
+			"settings":
+			{
+				"buffer_size": 752,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/navbar.hbs",
+			"settings":
+			{
+				"buffer_size": 1354,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/environment.js",
+			"settings":
+			{
+				"buffer_size": 1732,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/app.scss",
+			"settings":
+			{
+				"buffer_size": 51,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pytho",
+				"Build With: Python"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pref",
+				"Preferences: Browse Packages"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"pep8",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"prefe",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"python",
+				"Build With: Python"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pyth",
+				"Build With: Python"
+			],
+			[
+				"",
+				"Build With: Python - Syntax Check"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/stevenwilliams/Projects/library-app/app/templates/about.hbs",
+		"/Users/stevenwilliams/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/stevenwilliams/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (OSX).sublime-keymap",
+		"/Users/stevenwilliams/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/stevenwilliams/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/stevenwilliams/Projects/library-app/app/styles/app.scss",
+		"/Users/stevenwilliams/Projects/library-app/app/templates/application.hbs",
+		"/Users/stevenwilliams/Projects/indexer/indexer/spiders/dixa.py",
+		"/Users/stevenwilliams/Projects/indexer/indexer/spiders/open_snp.py",
+		"/Users/stevenwilliams/Projects/indexer/indexer/spiders/jga.py",
+		"/Users/stevenwilliams/Projects/mapper/src/maps/maps/JGA.ts",
+		"/Users/stevenwilliams/Projects/mapper/src/maps/maps/PGP_AUSTRIA.ts",
+		"/Users/stevenwilliams/Projects/mapper/src/maps/maps/EGA.ts",
+		"/Users/stevenwilliams/Projects/mapper/src/maps/maps/jga.ts",
+		"/Users/stevenwilliams/Projects/user_search_results/search_results_analysis.py",
+		"/Users/stevenwilliams/Projects/analytics/src/python/lib/plugins/datasourcesMetrics.py",
+		"/Users/stevenwilliams/Projects/user_search_results/search_results.json",
+		"/Users/stevenwilliams/.bash_profile",
+		"/Users/stevenwilliams/Downloads/Anaconda2-4.3.1-MacOSX-x86_64.sh",
+		"/Users/stevenwilliams/Projects/indexer/indexer/spiders/pgp_austria.py",
+		"/Users/stevenwilliams/Projects/indexer/indexer/spiders/test.py",
+		"/Users/stevenwilliams/Projects/indexer/indexer/spiders/ega.py",
+		"/Users/stevenwilliams/dashboard/index.html",
+		"/Users/stevenwilliams/Projects/mapper_dixa/mapper/assets/test-data.json",
+		"/Users/stevenwilliams/Projects/mapper_dixa/mapper/src/maps/maps/JAPANESE_TOXICO.ts",
+		"/Users/stevenwilliams/Projects/mapper_dixa/mapper/src/maps/maps/DIXA.ts",
+		"/Users/stevenwilliams/Projects/mapper/src/maps/maps/DIXA.ts",
+		"/Users/stevenwilliams/Projects/mapper/assets/test-data.json",
+		"/Users/stevenwilliams/Projects/indexer/indexer/spiders/japanese_toxico.py",
+		"/Users/stevenwilliams/Projects/mapper/src/maps/maps/EVA.ts",
+		"/Users/stevenwilliams/Projects/mapper/src/maps/maps/JAPANESE_TOXICO.ts",
+		"/Users/stevenwilliams/Projects/mapper/src/maps/inactive-maps/JAPANESE_TOXICO.ts",
+		"/Users/stevenwilliams/Projects/mapper/src/maps/inactive-maps/dixa.ts",
+		"/Users/stevenwilliams/Projects/repositories.json",
+		"/Users/stevenwilliams/Projects/mapper/src/maps/inactive-maps/DIXA.ts",
+		"/Users/stevenwilliams/Projects/s3.json",
+		"/etc/paths",
+		"/usr/local/php5/php.d/99-liip-developer.ini",
+		"/Users/stevenwilliams/Projects/analytics/d3/analytics_dashboard2.js",
+		"/Users/stevenwilliams/Projects/analytics/d3/index.html",
+		"/Users/stevenwilliams/Projects/datasource_analytics_sw/d3/analytics_dashboard2.js",
+		"/Users/stevenwilliams/Projects/analytics/d3/analytics_dashboard.js",
+		"/Users/stevenwilliams/Projects/datasource_analytics_sw/src/python/lib/plugins/UserAnalyticsMetrics.py",
+		"/Users/stevenwilliams/Projects/indexer/indexer/spiders/nci_gdc.py",
+		"/Users/stevenwilliams/Projects/indexer/indexer/spiders/gigadb.py",
+		"/Users/stevenwilliams/Projects/indexer/indexer/spiders/ncbi/base.py",
+		"/Users/stevenwilliams/Projects/indexer/indexer/spiders/base.py",
+		"/Users/stevenwilliams/Projects/indexer/indexer/spiders/ncbi/geo.py",
+		"/Users/stevenwilliams/Projects/datasource_analytics_sw/src/python/lib/plugins/repositories_dump.json",
+		"/Users/stevenwilliams/Projects/datasource_analytics_sw/src/python/lib/MockQueryMgr.py",
+		"/Users/stevenwilliams/Projects/datasource_analytics_sw/src/python/lib/MetricsRequestHandler.py",
+		"/Users/stevenwilliams/Projects/datasource_analytics_sw/src/python/lib/plugins/DatasourceMetrics.py",
+		"/Users/stevenwilliams/Projects/datasource_analytics_sw/d3/plotCanvasJSchart.js",
+		"/Users/stevenwilliams/Projects/datasource_analytics_sw/d3/analytics_dashboard.js",
+		"/Users/stevenwilliams/Projects/datasource_analytics_sw/d3/index.html",
+		"/Users/stevenwilliams/Projects/database_analytics/src/python/lib/plugins/DatasourceMetrics.py",
+		"/Users/stevenwilliams/Projects/database_analytics/src/python/lib/MetricsRequestHandler.py",
+		"/Users/stevenwilliams/Projects/database_analytics/d3/plotCanvasJSchart.js",
+		"/Users/stevenwilliams/Projects/database_analytics/d3/analytics_dashboard.js",
+		"/Users/stevenwilliams/Projects/database_analytics/d3/index.html",
+		"/Users/stevenwilliams/Projects/database_analytics/d3/test.js",
+		"/Users/stevenwilliams/Projects/database_analytics/d3/plotcanvastest.js",
+		"/Users/stevenwilliams/Projects/database_analytics/d3/plotCanvasJSchart_test.js",
+		"/Users/stevenwilliams/Projects/database_analytics/src/python/lib/plugins/DatasetsEditedMetrics.py",
+		"/Users/stevenwilliams/Projects/database_analytics/src/python/lib/MockQueryMgr.py",
+		"/Users/stevenwilliams/Projects/database_analytics/src/python/lib/plugins/repositories_dump.json",
+		"/Users/stevenwilliams/Projects/analytics/src/python/lib/plugins/repositories_dump.json",
+		"/Users/stevenwilliams/Projects/analytics/src/python/lib/plugins/DatasetsEditedMetrics.py",
+		"/Users/stevenwilliams/Projects/analytics/src/python/lib/plugins/DatasourceMetrics.py",
+		"/Users/stevenwilliams/Projects/analytics/src/python/lib/MetricsRequestHandler.py",
+		"/Users/stevenwilliams/Projects/analytics/d3/plotCanvasJSchart.js",
+		"/Users/stevenwilliams/Projects/analytics/src/python/lib/MockQueryMgr.py",
+		"/Users/stevenwilliams/Projects/analytics/src/python/lib/plugins/DatasetAttributesMetrics.py",
+		"/Users/stevenwilliams/Projects/analytics/d3/plotCanvasJScharttest.js",
+		"/Users/stevenwilliams/Projects/analytics/d3/plotd3chart.js",
+		"/Users/stevenwilliams/Projects/analytics/src/python/bin/analyseDatasets.py",
+		"/Users/stevenwilliams/Projects/analytics/src/python/lib/plugins/untitled.py",
+		"/Users/stevenwilliams/Projects/analytics/src/python/bin/metricsServer.py",
+		"/Users/stevenwilliams/.bashrc",
+		"/Users/stevenwilliams/Projects/mapper/src/maps/maps/test.js",
+		"/Users/stevenwilliams/Projects/mapper/src/maps/maps/PGP.ts",
+		"/Users/stevenwilliams/Projects/indexer/indexer/spiders/pgp.py",
+		"/Users/stevenwilliams/Projects/indexer/indexer/spiders/genomes_unzipped.py",
+		"/Users/stevenwilliams/.ssh/config",
+		"/Users/stevenwilliams/Projects/analytics/src/python/lib/QueryMgr.py",
+		"/Users/stevenwilliams/Projects/analytics/deploy.analyticsDatasets.production.yml",
+		"/Users/stevenwilliams/Projects/analytics/src/python/lib/Query.py",
+		"/Users/stevenwilliams/Projects/analytics/src/python/lib/Notification.py",
+		"/Users/stevenwilliams/Projects/analytics/src/python/lib/randomData.py",
+		"/Users/stevenwilliams/Projects/indexer/indexer/spiders/eva.py",
+		"/Users/stevenwilliams/Projects/indexer/indexer/spiders/thousand_genomes.py",
+		"/Users/stevenwilliams/Projects/indexer/indexer/spiders/open_humans.py",
+		"/Users/stevenwilliams/Projects/analytics/d3/d3.legend.js",
+		"/Users/stevenwilliams/Projects/analytics/d3/main.css",
+		"/Users/stevenwilliams/Projects/analytics/d3/plotchart.js",
+		"/Users/stevenwilliams/Projects/analytics/d3/styles/main.sass",
+		"/Users/stevenwilliams/Projects/analytics/src/python/bin/analyseActions.py",
+		"/Users/stevenwilliams/Projects/analytics/d3/grid.css",
+		"/Users/stevenwilliams/Projects/analytics/d3/css/grid.css",
+		"/Users/stevenwilliams/Documents/ega.py",
+		"/Users/stevenwilliams/EVA-mapper/mapper/src/maps/maps/EVA.ts",
+		"/Users/stevenwilliams/EVA-mapper/mapper/src/maps/maps/GENOMES_UNZIPPED.ts",
+		"/Users/stevenwilliams/EVA-mapper/mapper/assets/test-data.json",
+		"/Users/stevenwilliams/EVA-mapper/mapper/src/maps/maps/OPEN_HUMANS.ts",
+		"/Users/stevenwilliams/EVA-mapper/mapper/src/maps/maps/PGP.ts",
+		"/Users/stevenwilliams/EVA-mapper/mapper/src/maps/maps/THOUSAND_GENOMES.ts",
+		"/Users/stevenwilliams/EVA/indexer/indexer/spiders/eva.py",
+		"/Users/stevenwilliams/EVA-mapper/mapper/src/maps/maps/GEO.ts",
+		"/Users/stevenwilliams/indexer/indexer/spiders/icgc.py",
+		"/Users/stevenwilliams/indexer/indexer/spiders/open_humans.py",
+		"/Users/stevenwilliams/indexer/indexer/spiders/eva.py",
+		"/Users/stevenwilliams/indexer/indexer/spiders/pgp.py",
+		"/Users/stevenwilliams/Documents/eva_test3.py",
+		"/Users/stevenwilliams/indexer/indexer/spiders/ega.py",
+		"/Users/stevenwilliams/indexer/indexer/spiders/ega_scraping.py",
+		"/Users/stevenwilliams/indexer/indexer/spiders/eva_test2.py",
+		"/Users/stevenwilliams/indexer/indexer/spiders/EVA_studies_data.txt",
+		"/Users/stevenwilliams/indexer/indexer/spiders/testscrapy.py",
+		"/Users/stevenwilliams/indexer/indexer/items.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"head",
+			"\"",
+			"GEO",
+			"fields",
+			"null",
+			"ambr",
+			"null",
+			"pgp",
+			"actionQueryDict",
+			"vault",
+			"value",
+			"date",
+			"close",
+			"toTimeKey",
+			"~/Projects/analytics/d3/styles/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"properties",
+			"'null'",
+			"param2",
+			"param1",
+			"var data = [\n      {\n        \"date\": \"30-Apr-12\",\n        \"value\": 53.98\n      },\n      {\n        \"date\": \"27-Apr-12\",\n        \"value\": 67.00\n      },\n      {\n        \"date\": \"26-Apr-12\",\n        \"value\": 89.70\n      },\n      {\n        \"date\": \"25-Apr-12\",\n        \"value\": 99.00\n      },\n      {\n        \"date\": \"24-Apr-12\",\n        \"value\": 130.28\n      },\n      {\n        \"date\": \"23-Apr-12\",\n        \"value\": 166.70\n      },\n      {\n        \"date\": \"20-Apr-12\",\n        \"value\": 234.98\n      },\n      {\n        \"date\": \"19-Apr-12\",\n        \"value\": 345.44\n      },\n      {\n        \"date\": \"18-Apr-12\",\n        \"value\": 443.34\n      },\n      {\n        \"date\": \"17-Apr-12\",\n        \"value\": 543.70\n      },\n      {\n        \"date\": \"16-Apr-12\",\n        \"value\": 580.13\n      },\n      {\n        \"date\": \"13-Apr-12\",\n        \"value\": 605.23\n      },\n      {\n        \"date\": \"12-Apr-12\",\n        \"value\": 622.77\n      },\n      {\n        \"date\": \"11-Apr-12\",\n        \"value\": 626.20\n      },\n      {\n        \"date\": \"10-Apr-12\",\n        \"value\": 628.44\n      },\n      {\n        \"date\": \"9-Apr-12\",\n        \"value\": 636.23\n      },\n      {\n        \"date\": \"5-Apr-12\",\n        \"value\": 633.68\n      },\n      {\n        \"date\": \"4-Apr-12\",\n        \"value\": 624.31\n      },\n      {\n        \"date\": \"3-Apr-12\",\n        \"value\": 629.32\n      },\n      {\n        \"date\": \"2-Apr-12\",\n        \"value\": 618.63\n      },\n      {\n        \"date\": \"30-Mar-12\",\n        \"value\": 599.55\n      },\n      {\n        \"date\": \"29-Mar-12\",\n        \"value\": 609.86\n      },\n      {\n        \"date\": \"28-Mar-12\",\n        \"value\": 617.62\n      },\n      {\n        \"date\": \"27-Mar-12\",\n        \"value\": 614.48\n      },\n      {\n        \"date\": \"26-Mar-12\",\n        \"value\": 606.98\n      }\n    ];\n",
+			"value",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/templates/application.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 66,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/templates/index.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								302,
+								302
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/templates/admin/invitations.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								362,
+								362
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/routes/admin/invitations.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								174,
+								174
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/controllers/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 752,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								746,
+								746
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/templates/navbar.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1354,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1354,
+								1354
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "config/environment.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								451
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/styles/app.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 51,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 303.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "learnEmber.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projects/analytics/src/python/lib/plugins/DatasetsEditedMetrics.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 134.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
